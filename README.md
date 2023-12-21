@@ -7,9 +7,9 @@
 <!-- GIF -->
 
 <div align="center">
-    <img style="border-radius: 20%" src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47elll2mcz6fnf0tihi6tn2lg6rdr0wiji0qu6ovl8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200">
+    <img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47elll2mcz6fnf0tihi6tn2lg6rdr0wiji0qu6ovl8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200">
     <!-- PRESENTACION -->
-    <h1 style="font-size: 70px; font-weight=bold">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" /> <br> <em style="font-size: 30px;">I'm Andrés Clavijo</em></h1>
+    <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" /> <br> <em>I'm Andrés Clavijo</em></h1>
 </div>
 
 <!-- BOTONES -->
