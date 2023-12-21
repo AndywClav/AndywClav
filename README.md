@@ -1,26 +1,40 @@
-### Hi there 👋
-<img align='right' src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e4723tw9i6xrzcyilkc1rn46aqarf7d1e4g3frr876u&rid=giphy.gif&ct=s" width="230">
-<p><em> Im a Project manager interested in Data Science. <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
-</em></p>
+<!-- GIF -->
+
+<div align="left">
+  <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='100'>
+</div>
+
+<!-- GIF -->
+
 <div>
-  <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/andywclav/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" width="110"></a>
+    <h2 style="display: flex; align-items: center; justify-content: center;">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" />
+      <img style="border-radius: 20%" src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47elll2mcz6fnf0tihi6tn2lg6rdr0wiji0qu6ovl8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200">
+    </h2>
+</div>
+
+<h1 align="center" style="font-size: 30px; font-weight=bold"><em>I'm Andrés Clavijo</em></h1>
+
+<!-- BOTONES -->
+
+<div> 
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://www.linkedin.com/in/andywclav/">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" width="110">
+    </a>
+    <a href="https://github.com/AndywClav">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="110">
+    </a>
   </div>
-  <div style="display: inline_block"> 
-   <a href="https://github.com/EmanuelAl?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"</a>
+
+  <!-- GIF -->
+
+  <div style="display: inline_block" align="center">
+    <img src="https://media1.giphy.com/media/S5uMJDmtnATLbjjw3h/giphy.gif?cid=ecf05e477qpfeplxetmpdxrapgm33dfc91t6kj5p3kyf9l0u&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
   </div>
 </div>
-<!--
-**AndywClav/AndywClav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- GIF -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+  <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='100'>
+</div>
