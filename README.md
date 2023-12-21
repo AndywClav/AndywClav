@@ -17,11 +17,11 @@
 <div align="center">  
   <div>
     <a href="https://www.linkedin.com/in/andywclav/">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" width="110">
+      <img src="https://media2.giphy.com/media/jPK3EsIGS9f8YAp2Fa/giphy.gif?cid=ecf05e47botk69u7lr5m3ei3tezep9t605watrwvpbtliu1n&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80">
     </a>
     <a href="https://github.com/AndywClav">
       <!-- GIF -->
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="110">
+      <img src="https://media3.giphy.com/media/JwDE7vdtSAHsZS9zOY/giphy.gif?cid=ecf05e47cwdckoe6jp0twvqgsok43omfv1hgwjv4mldozqde&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="95">
     </a>
   </div>
 </div>
