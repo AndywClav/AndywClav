@@ -1,7 +1,7 @@
 <!-- GIF -->
 
 <div align="left">
-  <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='100'>
+  <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='30'>
 </div>
 
 <!-- GIF -->
@@ -34,5 +34,5 @@
 <!-- GIF -->
 
 <div align="right">
-  <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='100'>
+  <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='30'>
 </div>
