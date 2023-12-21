@@ -6,8 +6,8 @@
 
 <!-- GIF -->
 
-<div>
-    <h2 style="display: flex; align-items: center; justify-content: center;">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" />
+<div align="center">
+    <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" />
       <img style="border-radius: 20%" src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47elll2mcz6fnf0tihi6tn2lg6rdr0wiji0qu6ovl8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200">
     </h2>
 </div>
@@ -17,7 +17,7 @@
 <!-- BOTONES -->
 
 <div> 
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div align="center">
     <a href="https://www.linkedin.com/in/andywclav/">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" width="110">
     </a>
