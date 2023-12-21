@@ -1,9 +1,15 @@
 ### Hi there 👋
-
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/andywclav/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" target="_blank" width="110"></a>
+<img align='right' src="https://media4.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif?cid=ecf05e4723tw9i6xrzcyilkc1rn46aqarf7d1e4g3frr876u&rid=giphy.gif&ct=s" width="230">
+<p><em> Im a Project manager interested in Data Science. <img src="https://media0.giphy.com/media/ClfrdDtALSEog/giphy.gif?cid=ecf05e476ok8pdex9phzfpe85mrvcrxn1d2qu9nbqa578eq5&rid=giphy.gif&ct=s" width="100">
+</em></p>
+<div>
+  <div style="display: inline_block">
+    <a href="https://www.linkedin.com/in/andywclav/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for the-badge&logo=linkedin&logoColor=white" width="110"></a>
+  </div>
+  <div style="display: inline_block"> 
+   <a href="https://github.com/EmanuelAl?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"</a>
+  </div>
 </div>
-
 <!--
 **AndywClav/AndywClav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
