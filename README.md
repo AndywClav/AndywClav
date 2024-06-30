@@ -32,3 +32,10 @@
     <img src='https://media3.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611e15acf0f8390fe59223229edfee83442d3e5e869&rid=giphy.gif&ct=s' width='30'>
   </div>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture></br>
